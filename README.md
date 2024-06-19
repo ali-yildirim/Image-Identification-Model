@@ -1,9 +1,8 @@
 # Image-Identification-Model
 Image Identification Model
 
-I'll complete this project later.
+I'll upload the full notebook at my earliest convenience. 
 
- We are provided a strictly canine subset of ImageNet in order to practice fine-grained image categorization.
- To this end, we created a machine-learning model using TensorFlow.
+Building a model using Tensorflow and Tensorflow Hub.
 
  Source: https://www.kaggle.com/competitions/dog-breed-identification
